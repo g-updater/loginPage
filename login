@@ -1,9 +1,9 @@
 [
   {
-    "id": "device_id_here",
-    "username": "dpmods",
-    "password": "dpmods",
-    "expiresAt": "2025-12-31",
+    "id": "626197dcb9fdc6a8",
+    "username": "jrc",
+    "password": "pogi",
+    "expiresAt": "2025-06-30",
     "allowOffline": true
   },
   {
