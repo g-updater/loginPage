@@ -1,9 +1,9 @@
 [
   {
-    "id": "626197dcb9fdc6a8",
-    "username": "jrc",
+    "id": "2a8472621b7b7bfb",
+    "username": "marc",
     "password": "pogi",
-    "expiresAt": "2025-06-30",
+    "expiresAt": "2025-12-30",
     "allowOffline": true
   },
   {
