@@ -1,8 +1,8 @@
 [
   {
     "id": "626197dcb9fdc6a8",
-    "username": "dev",
-    "password": "pogi",
+    "username": "cris",
+    "password": "cris",
     "expiresAt": "2025-12-30",
     "allowOffline": true
   },
